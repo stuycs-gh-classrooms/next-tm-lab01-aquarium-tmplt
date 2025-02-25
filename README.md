@@ -1,6 +1,6 @@
 # Aquarium Lab
-#### Thinker Name:
-#### Period:
+### Thinker Name:
+### Period:
 
 ---
 ### Instructions
